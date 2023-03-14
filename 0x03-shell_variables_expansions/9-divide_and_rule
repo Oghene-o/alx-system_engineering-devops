@@ -1,2 +1,2 @@
-9-divide_and_rul#!/bin/bash
-echo $(($POWER / $DIVIDE))e
+#!/bin/bash
+echo $(($POWER / $DIVIDE))
